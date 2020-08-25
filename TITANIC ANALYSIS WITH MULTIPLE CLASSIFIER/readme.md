@@ -1,5 +1,5 @@
 **Dataset Titanic dengan berbagai macam Algoritma.**
-Dapat dijalankan menggunakan `Google Colaboratory` atau `Anaconda - Jupyter Notebook`. 
+Dapat dijalankan menggunakan `Google Colaboratory` atau `Anaconda - Jupyter Notebook`. Didalam Notebook ini sudah memuat penjelasan setiap baris kodingannya. 
 
 # **Cara Penggunaan**
 1. Clone atau download file.
