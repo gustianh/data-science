@@ -4,3 +4,4 @@
 * `Pima Indians Databset` : https://www.kaggle.com/uciml/pima-indians-diabetes-database
 * `Mall_Customer` : https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 * `Social_Network_Ads` : https://www.kaggle.com/dragonheir/logistic-regression
+* `Messy and Clean Room` : https://www.kaggle.com/cdawn1/messy-vs-clean-room
